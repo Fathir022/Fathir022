@@ -1,6 +1,6 @@
 <!-- banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4647AE,50:4647AE,100:403D88&height=250&section=header&text=Fathir%20Love%20Acheron&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Redmi%205%20Plus%20%7C%20Redmi%2012C%20%7C%20Helper&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:723EC3,50:4647AE,100:723EC3&height=250&section=header&text=Fathir%20Love%20Acheron&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Redmi%205%20Plus%20%7C%20Redmi%2012C%20%7C%20Helper&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <!-- message -->
@@ -34,4 +34,4 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 ## Contact Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%4E1F6E.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sikimah_sikibidih)
+[![Instagram](https://img.shields.io/badge/Instagram-723EC3.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sikimah_sikibidih)

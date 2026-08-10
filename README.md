@@ -8,7 +8,10 @@
   </a>
 </div>
 
-A passionate Software Engineer And Banner Designer focused on crafting clean and user-friendly digital experiences.
+A passionate Community Helper And Banner Designer focused on crafting clean and user-friendly digital experiences.
+
+<!-- Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=Fathir022&color=a29bfe&style=flat-square&label=profile+views" />
 
 ---
 

@@ -36,5 +36,6 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 [![Instagram](https://img.shields.io/badge/Instagram-723EC3.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sikimah_sikibidih)
 
+[![Telegram](https://img.shields.io/badge/Telegram-723EC3.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fathirilhami)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:723EC3,50:4647AE,100:723EC3&height=120&section=footer" />

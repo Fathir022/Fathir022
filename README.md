@@ -14,4 +14,4 @@ A passionate Software Engineer And Banner Designer focused on crafting clean and
 
 **📫 Let's Connect**
 <br>
-!Instagram(https://img.shields.io/badge/Instagram)](https://instagram.com/sikimah_sikibidih)
+!Instagram(https://img.shields.io/badge/Instagram)(https://instagram.com/sikimah_sikibidih)

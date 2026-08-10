@@ -28,8 +28,6 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 <img src="music.png" />
 </a>
 
-[![Music Widget](music.svg)](LINK_LAGU_SPOTIFY_ATAU_YOUTUBE_KAMU)
-
 <br/>
 
 ---

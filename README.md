@@ -21,8 +21,10 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 <br/>
 
+<!-- music -->
+![Music](music.svg)
 
-
+<br/>
 ---
 
 <!-- status -->

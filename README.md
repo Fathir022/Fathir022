@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4647AE,50:da3287,100:403D88&height=250&section=header&text=Fathir%20Love%20Acheron&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Redmi%205%20Plus%20%7C%20Redmi%2012C%20%7C%20Helper&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4647AE,50:4647AE,100:403D88&height=250&section=header&text=Fathir%20Love%20Acheron&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Redmi%205%20Plus%20%7C%20Redmi%2012C%20%7C%20Helper&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">

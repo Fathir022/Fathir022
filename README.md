@@ -10,7 +10,7 @@
   </a>
 </div>
 <br/>
-
+<img src="mywife.jpg"/>
 <!-- Description -->
 <div align="center">
 A passionate Community Helper And Banner Designer focused on crafting clean and user-friendly digital experiences.

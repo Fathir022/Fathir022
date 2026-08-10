@@ -12,6 +12,3 @@ A passionate Software Engineer And Banner Designer focused on crafting clean and
 * 📚 Learning **C#**
 * 💬 Ask me about **Android Jailbreak**
 
-**📫 Let's Connect**
-<br>
-[!Instagram] https://img.shields.io/badge/any_text-you_like-blue ] https://instagram.com/sikimah_sikibidih

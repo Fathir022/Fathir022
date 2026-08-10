@@ -25,6 +25,7 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 <img src="music.png" />
 
 <br/>
+
 ---
 
 <!-- status -->

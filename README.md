@@ -21,7 +21,7 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 <br/>
 
-![Preview](https://tthn.pythonanywhere.com/?preview=true&eq_color=0995e0)
+
 
 ---
 

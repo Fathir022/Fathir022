@@ -7,17 +7,17 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Hi+there!;I+Help+Everyone+for+Android;Always+learning+new+Android+Things" alt="Typing SVG" />
   </a>
 </div>
-<br>
+<br/>
 <div align="center">
 A passionate Community Helper And Banner Designer focused on crafting clean and user-friendly digital experiences.
 
-</br>
+<br/>
 <!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=Fathir022&color=a29bfe&style=flat-square&label=profile+views" />
 
 ---
 
-<br>
+<br/>
 
 <div align="left">
 
@@ -25,4 +25,6 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 * 🔭 Working on **Math Homework**
 * 📚 Learning **C#**
 * 💬 Ask me about **Android Jailbreak**
+
+<br/>
 

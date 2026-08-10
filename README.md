@@ -19,6 +19,10 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 <!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=Fathir022&color=a29bfe&style=flat-square&label=profile+views" />
 
+<br/>
+
+![Preview](https://tthn.pythonanywhere.com/?preview=true&eq_color=0995e0)
+
 ---
 
 <!-- status -->

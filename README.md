@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# My Name is Fathir
-# My Pronouns Is PLane Crashes
+My Name is Fathir
+My Pronouns Is PLane Crashes
 <!--
 **Fathir022/Fathir022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

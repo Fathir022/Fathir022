@@ -1,19 +1,17 @@
-## Hi there 👋
+### Hi there! I'm Fathir. 👋
 
-My Name is Fathir
+A passionate Software Engineer And Banner Designer focused on crafting clean and user-friendly digital experiences.
+
 ---
-My Pronouns Is PLane Crashes
-<!--
-**Fathir022/Fathir022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**🛠️ Tech Stack**
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌱 Currently**
+* 🔭 Working on **Math Homework**
+* 📚 Learning **C#**
+* 💬 Ask me about **Android Jailbreak**
+
+**📫 Let's Connect**
+<br>
+!Instagram(https://img.shields.io/badge/Instagram)](https://instagram.com/sikimah_sikibidih

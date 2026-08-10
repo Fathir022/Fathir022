@@ -34,4 +34,4 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 ## Contact Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%403D88.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sikimah_sikibidih)
+[![Instagram](https://img.shields.io/badge/Instagram-%4E1F6E.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sikimah_sikibidih)

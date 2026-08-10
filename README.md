@@ -19,6 +19,8 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 <br>
 
+<div align="left">
+
 **🌱 Currently**
 * 🔭 Working on **Math Homework**
 * 📚 Learning **C#**

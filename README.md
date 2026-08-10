@@ -24,7 +24,9 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 --
 
 <!-- music -->
-<img src="music.png" href="https://music.youtube.com/watch?v=-TIJt8fkvbo" />
+<a href="https://music.youtube.com/watch?v=-TIJt8fkvbo" >
+<img src="music.png" />
+</a>
 
 <br/>
 

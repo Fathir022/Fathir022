@@ -1,13 +1,17 @@
+<!-- banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4647AE,50:4647AE,100:403D88&height=250&section=header&text=Fathir%20Love%20Acheron&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Redmi%205%20Plus%20%7C%20Redmi%2012C%20%7C%20Helper&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
+<!-- message -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Hi+there!;I+Help+Everyone+for+Android;Always+learning+new+Android+Things" alt="Typing SVG" />
   </a>
 </div>
 <br/>
+
+<!-- Description -->
 <div align="center">
 A passionate Community Helper And Banner Designer focused on crafting clean and user-friendly digital experiences.
 
@@ -18,7 +22,7 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 ---
 
 <br/>
-
+<!-- status -->
 <div align="left">
 
 **🌱 Currently**
@@ -28,3 +32,6 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 <br/>
 
+## Contact Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%403D88.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sikimah_sikibidih)

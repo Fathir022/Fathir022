@@ -10,7 +10,7 @@
   </a>
 </div>
 <br/>
-<img src="mywife.jpg"/>
+
 <!-- Description -->
 <div align="center">
 A passionate Community Helper And Banner Designer focused on crafting clean and user-friendly digital experiences.
@@ -21,16 +21,27 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 ---
 
-<br/>
 <!-- status -->
 <div align="left">
-
+<img src="mywife.jpg" width="140px" align="right" />
+  
 **🌱 Currently**
-* 🔭 Working on **Math Homework**
-* 📚 Learning **C#**
-* 💬 Ask me about **Android Jailbreak**
+<details>
+  <summary>🔭 Working on</summary>
+  <b>Math Homework</b>
+</details>
 
-<br/>
+<details>
+  <summary>📚 Learning </summary>
+  <b>C#, HTML, C/C++</b>
+</details>
+
+<details>
+  <summary>💬 Ask me about</summary>
+  <b>Android Jailbreak</b>
+</details>
+
+<br clear="right"/>
 
 ## Contact Me
 

@@ -18,17 +18,17 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 <br/>
 <!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=Fathir022&color=a29bfe&style=flat-square&label=profile+views" />
-
+</div>
 <br/>
 
---
-
+<div align="center">
 <!-- music -->
 <a href="https://music.youtube.com/watch?v=-TIJt8fkvbo" >
 <img src="music.png" width="400" heigth="120" />
 </a>
 
 <br/>
+</div>
 
 ---
 
@@ -54,10 +54,18 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 <br clear="right"/>
 
+## 😹 Stats
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathir022&bg_color=1E104E&color=8100D1&line=462C7D&point=E7E3E2&area=true&hide_border=true" />
+</div>
+
 ## Contact Me
-
+<div align="center">
+  
 [![Instagram](https://img.shields.io/badge/Instagram-723EC3.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sikimah_sikibidih)
-
 [![Telegram](https://img.shields.io/badge/Telegram-723EC3.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fathirilhami)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:723EC3,50:4647AE,100:723EC3&height=120&section=footer" />
+
+</div>

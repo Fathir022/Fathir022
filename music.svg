@@ -7,7 +7,7 @@
   </defs>
   
   <!-- Background Card -->
-  <rect width="400" height="120" rx="15" fill="#18181b"/>
+  <rect width="400" height="120" rx="15" fill="#60241E"/>
 
   <!-- Gambar Album (Acheron) -->
   <!-- HAPUS tulisan PASTE_KODE_BASE64_DI_SINI dan paste kode dari web di dalam tanda kutip -->
@@ -21,9 +21,13 @@
     Dept
   </text>
 
+  <text x="120" y="28" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#E63946">
+    Now Playing
+  </text>
+
   <!-- Progress Bar -->
   <rect x="120" y="95" width="240" height="6" rx="3" fill="#3f3f46"/>
-  <rect x="120" y="95" width="120" height="6" rx="3" fill="#1db954">
+  <rect x="120" y="95" width="120" height="6" rx="3" fill="#E63946">
     <animate attributeName="width" from="0" to="240" dur="90s" repeatCount="indefinite" fill="freeze" />
   </rect>
 

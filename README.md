@@ -23,9 +23,11 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 <div align="center">
 <!-- music -->
-<a href="https://music.youtube.com/watch?v=-TIJt8fkvbo" >
-<img src="music.png" width="400" heigth="120" />
+
+[![Lagu Favoritku](music.svg)](https://music.youtube.com/watch?v=-TIJt8fkvbo)
+
 </a>
+
 
 <br/>
 </div>

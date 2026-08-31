@@ -1,6 +1,6 @@
 <!-- banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:723EC3,50:4647AE,100:723EC3&height=250&section=header&text=Fathir%20Love%20Acheron&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Redmi%205%20Plus%20%7C%20Redmi%2012C%20%7C%20Helper&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:723EC3,50:4647AE,100:723EC3&height=250&section=header&text=Fathir%20Love%20Acheron&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Redmi%205%20Plus%20%7C%20Redmi%2012C%20%7C%20Tomboys%20Lover&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <!-- message -->

@@ -13,7 +13,7 @@
 
 <!-- Description -->
 <div align="center">
-A passionate Community Helper And Banner Designer focused on crafting clean and user-friendly digital experiences.
+A Tomboys Lover
 
 <br/>
 <!-- Profile Views Badge -->
@@ -23,9 +23,12 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 <div align="center">
 <!-- music -->
+  
 [![Music](music.svg)](https://music.youtube.com/watch?v=-TIJt8fkvbo)
 
 </a>
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316apev6d4nudyecnqnyh5ejy3se)
 
 <br/>
 </div>

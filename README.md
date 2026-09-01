@@ -23,7 +23,7 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 <div align="center">
 <!-- music -->
-[![Lagu Favoritku](music.svg)](https://music.youtube.com/watch?v=-TIJt8fkvbo)
+[![Music](music.svg)](https://music.youtube.com/watch?v=-TIJt8fkvbo)
 
 </a>
 

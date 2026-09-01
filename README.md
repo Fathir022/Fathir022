@@ -23,13 +23,14 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 
 <div align="center">
 <!-- music -->
-
 [![Lagu Favoritku](music.svg)](https://music.youtube.com/watch?v=-TIJt8fkvbo)
 
 </a>
 
-
 <br/>
+<br>
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316apev6d4nudyecnqnyh5ejy3se)
+</br>
 </div>
 
 ---

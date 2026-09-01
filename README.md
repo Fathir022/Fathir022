@@ -23,13 +23,10 @@ A Tomboys Lover
 
 <div align="center">
 <!-- music -->
+
+![Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316apev6d4nudyecnqnyh5ejy3se)
   
-[![Music](music.svg)](https://music.youtube.com/watch?v=-TIJt8fkvbo)
-
 </a>
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316apev6d4nudyecnqnyh5ejy3se)
-
 <br/>
 </div>
 

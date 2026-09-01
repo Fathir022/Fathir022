@@ -28,9 +28,6 @@ A passionate Community Helper And Banner Designer focused on crafting clean and 
 </a>
 
 <br/>
-<br>
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316apev6d4nudyecnqnyh5ejy3se)
-</br>
 </div>
 
 ---
